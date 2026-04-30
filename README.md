@@ -69,6 +69,3 @@ const amarildo = {
   currentFocus: "Building useful educational technology",
   goal: "Make science easier, clearer, and more accessible"
 };
-
-📫 Connect With Me
-<p align="left"> <a href="https://amarildo29.github.io/my-cv"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" /> </a> <a href="https://stemcalculators.app/"> <img src="https://img.shields.io/badge/STEM%20Calculators-Visit-green?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
