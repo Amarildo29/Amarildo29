@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarildo Koçiaj</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Chemistry+Teacher;Full+Stack+Developer;STEM+Education+Builder;Founder+of+STEM+Calculators" />
+</p>
 <h3 align="center">
 Chemistry Teacher · Full Stack Developer · STEM Education Builder
 </h3>
@@ -45,15 +47,15 @@ Educational platform focused on learning, testing, and student preparation.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarildo29&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
@@ -67,3 +69,6 @@ const amarildo = {
   currentFocus: "Building useful educational technology",
   goal: "Make science easier, clearer, and more accessible"
 };
+
+📫 Connect With Me
+<p align="left"> <a href="https://amarildo29.github.io/my-cv"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" /> </a> <a href="https://stemcalculators.app/"> <img src="https://img.shields.io/badge/STEM%20Calculators-Visit-green?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
