@@ -105,7 +105,7 @@ My online CV and portfolio with professional experience, projects, skills, and b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -113,10 +113,12 @@ My online CV and portfolio with professional experience, projects, skills, and b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
 </p>
 
----
+<p align="center">
+  <em>Private contributions are enabled on my GitHub profile, while private repository details remain hidden.</em>
+</p>
 
 ### 🧠 What I Like Building
 
