@@ -37,7 +37,7 @@ Interactive calculators for mathematics, physics, chemistry, statistics, and hum
 
 🔗 Website: [stemcalculators.app](https://stemcalculators.app/)
 
-#### 📘 InformateST  
+#### 📘 InformaTest
 Educational platform focused on learning, testing, and student preparation.
 
 🔗 Website: [informatest.app](https://informatest.app/)
