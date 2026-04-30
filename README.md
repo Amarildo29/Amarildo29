@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amarildo Koçiaj</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Chemistry+Teacher;Full+Stack+Developer;STEM+Education+Builder;Founder+of+STEM+Calculators" />
 </p>
+<h1 align="center">Hi 👋, I'm Amarildo Koçiaj</h1>
 <h3 align="center">
 Chemistry Teacher · Full Stack Developer · STEM Education Builder
 </h3>
