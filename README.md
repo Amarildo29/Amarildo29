@@ -105,24 +105,19 @@ My online CV and portfolio with professional experience, projects, skills, and b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false"
-    alt="Amarildo29 GitHub stats"
-  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amarildo29&theme=tokyonight" alt="Amarildo29 GitHub stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Amarildo29&theme=tokyonight&hide_border=false"
-    alt="Amarildo29 GitHub streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Amarildo29&theme=tokyonight&hide_border=false" alt="Amarildo29 GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
-    alt="Amarildo29 top languages"
-  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amarildo29&theme=tokyonight" alt="Amarildo29 top languages by repository" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amarildo29&theme=tokyonight" alt="Amarildo29 top languages by commit" />
 </p>
 
 <p align="center">
