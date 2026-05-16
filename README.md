@@ -105,15 +105,24 @@ My online CV and portfolio with professional experience, projects, skills, and b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amarildo29&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false"
+    alt="Amarildo29 GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarildo29&theme=tokyonight" alt="GitHub streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Amarildo29&theme=tokyonight&hide_border=false"
+    alt="Amarildo29 GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildo29&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    alt="Amarildo29 top languages"
+  />
 </p>
 
 <p align="center">
